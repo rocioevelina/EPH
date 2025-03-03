@@ -1,0 +1,9 @@
+The Permanent Household Survey (EPH) of Paraguay provides a representative snapshot of the country’s population through a statistical sample of households. Conducted annually at the national level, it covers both urban and rural areas. The survey relies on direct interviews with a representative sample of households across different regions. 
+
+Each year, the EPH surveys between 5,000 and 13,000 households, with the total number of individuals interviewed varying based on the average household size in the selected sample. Notably, indigenous populations are not included in the survey. To ensure representativeness across geographic and socio-economic groups, the EPH employs a stratified and clustered sampling design.
+
+This dataset includes the period from 1998 to 2021 (2000 is not included), focusing only on the economically active population (15 years and older, according to the INE definition) who actively earn an income.  The sample has a total size of 229,253 people, including 131,745 men and 97,408 women, divided in 138,579 urban residents and 90,574 rural residents. 
+
+The poverty classification divides the population into three categories based on their ability to meet basic needs. Extreme poor individuals (12,092 people) are those who cannot afford the minimum cost of food, placing them in a situation of severe vulnerability. The poor category (53,275 people) includes those who can afford basic food but lack sufficient income to cover other essential goods and services such as housing, healthcare, and transportation. Finally, the non-poor group (165,927 people) consists of individuals whose income is enough to cover both food and essential non-food expenses, allowing them to maintain a better standard of living. This classification helps assess income disparities and guide policies aimed at reducing poverty and improving economic conditions.
+
+For more information rocio.ramirez.rojas@uni-oldenburg.de
